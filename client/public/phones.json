@@ -1,0 +1,305 @@
+[
+    {
+      "product_id": 1,
+      "title": "Samsung Galaxy S21",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/pk/galaxy-s21/gallery/pk-galaxy-s21-5g-g996-366073-sm-g996bzsgmea-362622820",
+      "category": "Smartphone",
+      "price": 799,
+      "description": "The Samsung Galaxy S21 features a sleek design, a powerful Exynos 2100 processor, and a vibrant AMOLED display.",
+      "list": [
+        "6.2-inch Dynamic AMOLED 2X display",
+        "Exynos 2100 (Global) / Snapdragon 888 (USA)",
+        "8GB RAM",
+        "128GB storage",
+        "4000mAh battery",
+        "5G enabled"
+      ],
+      "quantity": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 2,
+      "title": "iPhone 13",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/3408-34138.jpg",
+      "category": "Smartphone",
+      "price": 999,
+      "description": "The latest Apple iPhone with a Super Retina XDR display, A15 Bionic chip, and improved battery life.",
+      "list": [
+        "6.1-inch Super Retina XDR display",
+        "A15 Bionic chip",
+        "Dual 12MP cameras",
+        "5G support",
+        "128GB/256GB/512GB storage",
+        "3240mAh battery"
+      ],
+      "quantity": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 3,
+      "title": "Google Pixel 6",
+      "image": "https://kryinternational.com/wp-content/uploads/2024/02/Google-Pixel-6-Price-in-bangladesh.jpg",
+      "category": "Smartphone",
+      "price": 699,
+      "description": "Google Pixel 6 with Google's own Tensor chip and an upgraded camera for outstanding photos.",
+      "list": [
+        "6.4-inch OLED display",
+        "Google Tensor processor",
+        "8GB RAM",
+        "128GB/256GB storage",
+        "4614mAh battery",
+        "5G enabled"
+      ],
+      "quantity": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 4,
+      "title": "OnePlus 9 Pro",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Pine%20green-gallery..png",
+      "category": "Smartphone",
+      "price": 969,
+      "description": "Flagship OnePlus phone with a 120Hz Fluid AMOLED display and Hasselblad-tuned cameras.",
+      "list": [
+        "6.7-inch Fluid AMOLED, 120Hz",
+        "Snapdragon 888",
+        "12GB RAM",
+        "256GB storage",
+        "4500mAh battery",
+        "5G enabled"
+      ],
+      "quantity": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": 5,
+      "title": "Xiaomi Mi 11",
+      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344667.93946102.png",
+      "category": "Smartphone",
+      "price": 749,
+      "description": "Xiaomi Mi 11 features a stunning display and a powerful Snapdragon 888 chipset.",
+      "list": [
+        "6.81-inch AMOLED, 120Hz",
+        "Snapdragon 888",
+        "8GB RAM",
+        "128GB storage",
+        "4600mAh battery",
+        "108MP main camera"
+      ],
+      "quantity": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": 6,
+      "title": "Sony Xperia 1 III",
+      "image": "https://mobilebazar.com.bd/assets/img/Sony-Xperia-1-II-Balck.jpg",
+      "category": "Smartphone",
+      "price": 1299,
+      "description": "Sony's flagship with 4K OLED display and professional-grade camera system.",
+      "list": [
+        "6.5-inch 4K OLED",
+        "Snapdragon 888",
+        "12GB RAM",
+        "256GB storage",
+        "4500mAh battery",
+        "Triple camera setup"
+      ],
+      "quantity": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": 7,
+      "title": "Oppo Find X3 Pro",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwsJ2I0hUJDd7QWMIekvzDk_EbxNPiXbTMQ&s",
+      "category": "Smartphone",
+      "price": 1099,
+      "description": "High-end Oppo phone with 10-bit color display and 5G support.",
+      "list": [
+        "6.7-inch AMOLED, 120Hz",
+        "Snapdragon 888",
+        "12GB RAM",
+        "256GB storage",
+        "4500mAh battery",
+        "Microscope camera"
+      ],
+      "quantity": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 8,
+      "title": "Realme GT Master Edition",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPV3qaXuEbnH1PNcCe0hiq1nwltKtJrnETkw&s",
+      "category": "Smartphone",
+      "price": 399,
+      "description": "Budget-friendly smartphone with a powerful Snapdragon 778G and unique design.",
+      "list": [
+        "6.43-inch Super AMOLED, 120Hz",
+        "Snapdragon 778G",
+        "8GB RAM",
+        "128GB storage",
+        "4300mAh battery",
+        "64MP main camera"
+      ],
+      "quantity": true,
+      "rating": 4.1
+    },
+    {
+      "product_id": 9,
+      "title": "Nokia G50",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Nokia/G50/4_zu_3_Nokia_G50.jpg",
+      "category": "Smartphone",
+      "price": 299,
+      "description": "Affordable 5G smartphone with large battery and HD+ display.",
+      "list": [
+        "6.82-inch HD+ display",
+        "Snapdragon 480",
+        "4GB RAM",
+        "128GB storage",
+        "5000mAh battery",
+        "5G enabled"
+      ],
+      "quantity": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": 10,
+      "title": "Asus ROG Phone 5",
+      "image": "https://dlcdnwebimgs.asus.com/gain/DA13DF35-344E-4922-9347-9E637825F809/w260",
+      "category": "Smartphone",
+      "price": 999,
+      "description": "Gaming powerhouse with 144Hz AMOLED display and customizable RGB lighting.",
+      "list": [
+        "6.78-inch AMOLED, 144Hz",
+        "Snapdragon 888",
+        "16GB RAM",
+        "256GB storage",
+        "6000mAh battery",
+        "AirTrigger buttons"
+      ],
+      "quantity": true,
+      "rating": 4.8
+    },
+    {
+        "product_id": 11,
+        "title": "Apple AirPods Pro",
+        "image": "https://www.tct.com.bd/wp-content/uploads/2022/04/MWP22_720x.jpg",
+        "category": "Accessories",
+        "price": 249,
+        "description": "Apple AirPods Pro with Active Noise Cancellation, Transparency mode, and custom-fit comfort.",
+        "list": [
+          "Active Noise Cancellation",
+          "Transparency mode",
+          "Customizable fit with three sizes",
+          "Wireless charging case",
+          "Up to 4.5 hours of listening time per charge"
+        ],
+        "quantity": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 12,
+        "title": "Samsung Galaxy Watch 4",
+        "image": "https://adminapi.applegadgetsbd.com/storage/media/large/3218-51839.jpg",
+        "category": "Accessories",
+        "price": 279,
+        "description": "The Samsung Galaxy Watch 4 is a stylish smartwatch with health tracking features like body composition, ECG, and blood oxygen monitoring.",
+        "list": [
+          "1.2-inch Super AMOLED display",
+          "Exynos W920 processor",
+          "Body composition measurement",
+          "Heart rate monitor and ECG",
+          "Blood oxygen tracking",
+          "Water-resistant up to 50 meters"
+        ],
+        "quantity": false,
+        "rating": 3.5
+      },
+      {
+        "product_id": 13,
+        "title": "Sony WH-1000XM4 Wireless Headphones",
+        "image": "https://www.sony-asia.com/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+        "category": "Accessories",
+        "price": 348,
+        "description": "Sony's top-rated noise-canceling wireless headphones with up to 30 hours of battery life and premium sound quality.",
+        "list": [
+          "Industry-leading noise cancellation",
+          "30-hour battery life",
+          "Touch sensor controls",
+          "Wireless Bluetooth and NFC pairing",
+          "Adaptive sound control"
+        ],
+        "quantity": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 14,
+        "title": "Apple Watch Series 7",
+        "image": "https://mobilexchangebd.com/storage/general/apple-watch-series-7-45mm-gps-smartwatch.jpg",
+        "category": "Smartwatch",
+        "price": 399,
+        "description": "The latest Apple Watch with a larger, always-on Retina display and robust fitness tracking features.",
+        "list": [
+          "45mm or 41mm case size",
+          "Always-on Retina display",
+          "Blood oxygen and ECG apps",
+          "Up to 18 hours of battery life",
+          "Swimproof design"
+        ],
+        "quantity": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 15,
+        "title": "Fitbit Versa 3",
+        "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Fitbit-Versa-3-Smart-Watch-Black-9119.jpg",
+        "category": "Smartwatch",
+        "price": 229,
+        "description": "Fitbit's popular smartwatch with built-in GPS, heart rate monitoring, and compatibility with Alexa and Google Assistant.",
+        "list": [
+          "1.58-inch AMOLED display",
+          "Built-in GPS",
+          "Heart rate monitoring",
+          "Sleep tracking",
+          "Alexa and Google Assistant support"
+        ],
+        "quantity": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 16,
+        "title": "MacBook Air M2",
+        "image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-Midnight-8137.jpg",
+        "category": "Laptop",
+        "price": 1199,
+        "description": "Apple's latest MacBook Air with the M2 chip, featuring a lightweight design, improved performance, and long battery life.",
+        "list": [
+          "13.6-inch Liquid Retina display",
+          "Apple M2 chip",
+          "8GB RAM, configurable to 24GB",
+          "256GB SSD, configurable up to 2TB",
+          "Up to 18 hours battery life",
+          "720p FaceTime HD camera"
+        ],
+        "quantity": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 17,
+        "title": "MacBook Pro 14-inch M1 Pro",
+        "image": "https://istockbd.com/cdn/shop/products/Macbook_Pro_M1_Pro_14_inch_iStockBD1.png?v=1647172587&width=720",
+        "category": "Laptop",
+        "price": 1999,
+        "description": "The powerful MacBook Pro with a 14-inch Liquid Retina XDR display, featuring the M1 Pro chip for professional-grade performance.",
+        "list": [
+          "14.2-inch Liquid Retina XDR display",
+          "Apple M1 Pro chip",
+          "16GB RAM, configurable to 64GB",
+          "512GB SSD, configurable up to 8TB",
+          "Up to 17 hours battery life",
+          "1080p FaceTime HD camera"
+        ],
+        "quantity": true,
+        "rating": 4.9
+      }
+  ]
+  
