@@ -1,4 +1,4 @@
-# Live Link: https://gadget-heaven-b10a8.netlify.app/
+# Live Link: https://gadget-heaven-d9be9.web.app/
 ## Requirement pdf link: https://drive.google.com/file/d/1VgPoris7DQo6SF71WvlZvJ3o82e-bIbb/view?usp=drive_link
 # List of React Fundamental concepts used in the project
 - Es6
